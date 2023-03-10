@@ -1,0 +1,4 @@
+h = int(input('input hour : '))
+m = int(input('input minute : '))
+
+print(h, 'hour', m 'minute')
