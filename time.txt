@@ -1,5 +1,6 @@
 #이정민 202002666 컴퓨터공학부, 파이썬 코드
 #touched by user2(ljm1102s)
+#1234
 
 d = int(input('input date : '))
 h = int(input('input hour : '))
